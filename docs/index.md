@@ -1,11 +1,14 @@
 # Toast Analytics Guide
 
+## Service Guide
 - Getting Started
 - Campaign Guide
 - Promotion Guide
-- Android Developer Guider
+
+## Developer Guide
+- Android Developer Guide
 - iOS Developer Guide
 - Unity Developer Guide
 - Campaign Developer Guide
 - Promotion Developer Guide
-- Error Code
+- API Return Code
