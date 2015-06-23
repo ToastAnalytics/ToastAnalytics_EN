@@ -9,4 +9,3 @@
 - Campaign Developer Guide
 - Promotion Developer Guide
 - Error Code
-- Release Notes
