@@ -1,0 +1,9 @@
+site_name: toastanalytics
+theme: readthedocs
+
+docs_dir: docs
+site_dir: docs
+pages:
+- ['index.md', 'Introduction', 'Welcome to Toast Analytics']
+
+- ['Developer/1. Getting Started.md', 'Common', 'Getting Started']
