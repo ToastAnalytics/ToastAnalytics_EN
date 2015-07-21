@@ -1,11 +1,9 @@
-# Toast Analytics Guide
-
-## Operator Guide
+# Operator Guide
 - Getting Started
 - Campaign 
 - Promotion 
 
-## Developer Guide
+# Developer Guide
 - Android 
 - iOS 
 - Unity 
