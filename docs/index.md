@@ -2,7 +2,7 @@
 - Getting Started
 - Campaign 
 - Promotion 
-- Marketing(Comming Soon)
+- Marketing
 
 # Developer Guide
 - Android 
